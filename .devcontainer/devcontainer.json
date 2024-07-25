@@ -1,6 +1,6 @@
 {
     // Name this configuration
-    "name": "Codespace for Skills!",
+    "name": "Github Copilot Aamar",
     "customizations": {
         "vscode": {
             "extensions": [
